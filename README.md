@@ -1,4 +1,4 @@
-This code reads the HDF5 file and uses specific variables( Electric Fields) to calculate conversion efficiency for 2D Model.
+This code reads the HDF5 file and uses specific variables( Electric Fields) to calculate conversion efficiency for 2D Model in Julia
 
 # Access specific datasets in the terminal
 using Pkg
