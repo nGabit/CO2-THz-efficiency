@@ -1,5 +1,10 @@
-This code reads the HDF5 file and uses specific variables( Electric Fields) to calculate conversion efficiency for 2D Model in Julia.
+The codes in main file are used for the next purposes:
+1. Reading HDF5 file;
+2. Calculation of an  efficiency from imported data;
+3. export data;
+4. plot graphs.
 Used crystal: ZnTe
+
 # Access specific datasets in the terminal
 using Pkg
 Pkg.add("HDF5")
